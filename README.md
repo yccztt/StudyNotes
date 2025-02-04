@@ -1,2 +1,2 @@
 # StudyNotes
-A repository for taking study notes
+A repository for taking study notes.
