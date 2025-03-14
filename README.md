@@ -1,4 +1,7 @@
-# StudyNotes
-A repository for taking study notes.
+# 学习目录
 
-# 测试使用GItKraKen
+# Vue
+
+# Java
+
+# Godot
